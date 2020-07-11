@@ -13,6 +13,8 @@
  
 # Maven
 log/
-target/.jar
+target/
 
 *.class
+
+.factorypath
